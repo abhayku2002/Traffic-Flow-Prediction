@@ -1,4 +1,4 @@
-# Traffic-Flow-Prediction
+# Traffic Flow Prediction
 
 Traffic congestion and related problems are a common concern in urban areas. Understanding traffic patterns and analyzing data can provide valuable insights for transportation planning, infrastructure development, and congestion management.
 
